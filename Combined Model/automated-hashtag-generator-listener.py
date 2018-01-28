@@ -32,10 +32,10 @@ from textblob import TextBlob as tb
 from nltk.classify.scikitlearn import SklearnClassifier
 from sklearn.svm import SVC, LinearSVC
 
-ckey = 'xTgwF2Kft3Rgo5FfQevFowj57'
-csecret = '4n7PAMIF1pTjXpzAaVTw2KyxOBPbNLPh51aj9kT55qmdt9vFrB'
-atoken = '796775752054120448-W6y3Taoo4HpeZIewukPlLVUifmVJ4Iv'
-asecret = 'jiCu2TbFQspV0Oaj4dnOhT86D90cIsvEWREZVwwjvCusv'
+ckey = ''
+csecret = ''
+atoken = ''
+asecret = ''
 
 THRESHOLD_NB  = 10
 THRESHOLD_SVM = 10000
